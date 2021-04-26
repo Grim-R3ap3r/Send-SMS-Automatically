@@ -1,17 +1,22 @@
 # Send-SMS-Automatically
+***
 Using twilio and REST API to send messages automatically using python
+&&&
 
 Install the Library
 The easiest way to install the library is from PyPi using pip, a package manager for Python. Simply run this in the terminal:
-
+***
 pip install twilio
+***
 If you get a pip: command not found error, you can also use easy_install. Run this in your terminal:
-
+***
 easy_install twilio
+***
 Manual Installation
 Or, you can download the source code (ZIP) for twilio-python, and then install the library by running:
 
 python setup.py install
+***
 in the folder containing the twilio-python library.
 
 "Permission Denied"
